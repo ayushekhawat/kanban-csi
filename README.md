@@ -4,7 +4,7 @@
 
 <h2>LIVE:</h2>
 
-- https://taskify-work-planner.vercel.app/
+- (https://ayushikanwar.lovable.app/)/
 
 ---
 
